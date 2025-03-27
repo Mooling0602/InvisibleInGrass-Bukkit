@@ -1,3 +1,6 @@
+- 中文
+- [English](README.md)
+
 # InvisibleInGrass-Bukkit
 使玩家在高草丛里下蹲时获得隐身效果。
 

@@ -1,3 +1,6 @@
+- English
+- [中文](README_zh_cn.md)
+
 # InvisibleInGrass-Bukkit
 Makes players invisible in tall grass when sneaking.
 
